@@ -6,5 +6,9 @@ public class EmpClient {
 		
 		System.out.println("Welcom");
 	}
+	
+	public static void display() {
+		System.out.println("Display");
+	}
 
 }
